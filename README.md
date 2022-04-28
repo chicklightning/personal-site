@@ -1,2 +1,2 @@
-# chicklightning
+# Gabrielle Sweet
 Personal/professional website.
